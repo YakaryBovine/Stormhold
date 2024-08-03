@@ -1,0 +1,1 @@
+Sundren is a militaristic country ruled over by a hierarchy consisting of the [[Feudal System|King, lords, knights, serfs]], and [[Mage]]s, and serfs. It was established following a successful rebellion against [[The Magocracy]].

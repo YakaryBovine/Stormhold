@@ -1,0 +1,5 @@
+Stormwatch Academy is the only institution of magical learning in [[Kingdom of Venidar]]. It is funded by the King through taxes from the nobility, and its primary responsibility is to train [[Mage]]s to serve under the heads of noble houses.
+
+The Academy employs a number of Seekers, who are empowered to travel throughout Sundren in the search of those with the capacity to become [[Mage]]s. These individuals are stripped of their possessions and names and taken to Stormwatch Academy to learn magic.
+
+The first act of magic every student learns at Stormwatch is the [[Rite of Entanglement]]. Each student, at the end of their first year, is subjected to the [[Rite of Severing]]. The Mage then has seven minutes to perform the Rite of Entanglement. Those that fail or refuse become [[Null]], and are employed as caretakers of the Academy. Those that succeed are taught the arts of magic for the next ten years, after which they are placed under the service of a noble house. That noble house is granted control over the Mage's Phylactery, ensuring continued compliance.

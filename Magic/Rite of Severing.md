@@ -1,0 +1,1 @@
+The uniquely loosely attached [[Animus]]es of [[Mage]]s and [[Magical Creature]]s render them susceptible to the Rite of Severing, a procedure which removes their Animus from their body as a murky, shimmery, silver liquid. Once removed, the Animus begins decaying. After seven minutes outside of the body, the victim will become [[Null]].

@@ -1,0 +1,1 @@
+Every living creature is born with an Animus, the incorporeal essence of their living being. When a creature dies, its Animus is released into the Aether.

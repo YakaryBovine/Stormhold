@@ -1,0 +1,7 @@
+[[Magical Creature]]s have loosely attached [[Animus]]es, and can therefore have their Animuses removed from their bodies via the [[Rite of Severing]]. Without sapience, however, they are unable to perform the [[Rite of Entanglement]] - and doing so would serve little to no purpose, as creatures cannot be made to understand what would happen if their [[Phylactery]] were to break.
+
+Instead, the Rite of Bonding can be used to bind a magical creature's Animus to a stable Animus - that is, any Animus possessed by neither a Mage nor another magical creature. This bond fosters a deep emotional attachment from the magical creature to the holder of the stable Animus, though this attachment does not have to be mutual.
+
+Though the benefits of bonding a magical creature to lifelong subservience cannot be overstated, the Rite does come with its disadvantages. An individual can only have one bonded creature at a time, as their stable Animus is a limited anchor. If the creature dies, the owner's Animus becomes fractured, and attempting to bond a new creature is likely to result in the owner's death. If the owner dies before the creature, the creature becomes [[Null]] in seven minutes.
+
+The Rite is commonly performed on the royal family and high ranking nobles, who enjoy the prestige and material power of being bonded with a powerful creature. Different noble houses associate themselves with different creatures, weaving them into their own house mythologies.

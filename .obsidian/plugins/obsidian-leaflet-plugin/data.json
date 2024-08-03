@@ -1,0 +1,217 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1722660892566,
+      "markers": [
+        {
+          "id": "ID_6b6b692a894b",
+          "type": "default",
+          "loc": [
+            -4.7294921875,
+            6.263671875
+          ],
+          "link": "Stormwatch Academy",
+          "layer": "%5B%5BMapFiles%2FCounties.png%7CCounties%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_49192a1949bb",
+          "type": "default",
+          "loc": [
+            -4.8388671875,
+            6.80859375
+          ],
+          "layer": "%5B%5BMapFiles%2FCounties.png%7CCounties%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Capital",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_d979aa391888",
+          "type": "default",
+          "loc": [
+            -4.05078125,
+            10.974609375
+          ],
+          "layer": "%5B%5BMapFiles%2FCounties.png%7CCounties%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5853125,
+            0.43434554973821987
+          ],
+          "description": "Player's Castle",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_da49d9cb69aa",
+          "type": "default",
+          "loc": [
+            -4.140625,
+            10.3134765625
+          ],
+          "layer": "%5B%5BMapFiles%2FHighLordships.png%7CHigh%20Lordships%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5500520833333333,
+            0.44397905759162304
+          ],
+          "description": "Fish",
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_a8aae80b8aea",
+          "type": "default",
+          "loc": [
+            -3.8828125,
+            10.5498046875
+          ],
+          "layer": "%5B%5BMapFiles%2FHighLordships.png%7CHigh%20Lordships%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.56265625,
+            0.4163350785340314
+          ],
+          "description": "Wild horses",
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_8bc97b89dabb",
+          "type": "default",
+          "loc": [
+            -4.12109375,
+            10.806640625
+          ],
+          "layer": "%5B%5BMapFiles%2FHighLordships.png%7CHigh%20Lordships%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Azblarken",
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Interactive Maps/Venidar.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "tags": [
+        "city"
+      ],
+      "minZoom": null,
+      "maxZoom": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAA9BJREFUSEvF1G1MW1UYB/D/uQXaQdeW0kG7Im6GgIIBIi6RCgotLMtmwrIomuimmThkhMy9mOHiuumCVGI0Y5khbosbm5El6hb2ItgWEIbMFdwgRMJ0ulJo6dZ2lJdSyr33mLIPJmbQkmXxJufLeXl+eZ7nnEvwiD/yiOPj/weysxEpdaCMEEgoRTsoRnkW7va7mAon+5AZFKnwbIx0WXduXrrA45lmBwetw95xX6dgDoeNd3EjFBISKFRig0ode/HTup0YtrrQ12OByTTAup2ThlYn9j8sQLRK6OPixQeXx4jo8G3XOAVuAfgJHOrMd+B8KECnRgoFLu3a+0bymGMC3zVe7pmMYrVdQ/P1p6GCB9cXLNErgMCjxt6nM1YfqK0/EuW+M4Y926v4MZtrB8+gEXaMtwNsKGRBIE+JFZECnN1V9XZBZrYGYDhcPHcW33/bimihkPp9gYZJwpd3j2BmMWRBIH8VZAIWJzW5WcWZazIAPgDjJSPYAIeSzSX4ofECvTnkOCASo/bHPzG7ELLYLWJ0iahMSU0yrE5jROzMMly/asW2ys0oWL8efT290O+u8fj8c5VtdjQC4B+ELAYQbSIqMtNkn+375KCwuuoLKFSxqHj/35vZfL4BJ75qujrrp5s6XXCEDcw3WIl3KUFJarIk74nUDPJLhwXy+FgoFCqAMAgEOPDsOIaGbN6AnzvOMKgz2TH8X+SBGejUyJEtj2ndsHGN6MJ5C4pfK8bPpitYoZRDJOQw8pcb+YVamFou47kXctDdcZ2O2OzvtTlQFx6gQIpcJRvcue8tpr+rDS+XVqLT2ARZXBKkUhl+s1zDq29ux5kTBmheLERd9TH8bXVuaXXgdFhAcNO6pIiWPJ1mbXpmOlg6fb+FwRHBApS5PwDcvjWMTlN3/9T0rNY8CnfYgE4dkfNUWnJXxe4yIpZI5s/19V5DXEI8Eh9bNf+OZ/1enDx2hnZfubHHbOM/D7vJwY0FSqRnZWcN6Gv2QyaXYdDSgprqLxEtjsVHtR8gYWUq/NNeHK45BLOxr9w4ytcvCdCpkJfxTEaHvuZDyORx+Obr07D+0Y+bg0MordiK3MKNmPV5ccTwMZqN/XqzjT+0JGCtmjn60qZ15dt2lBKhSIpTx0/Be8+D/l+bsbVsCzRFr4Nn59DcdA71RxscdvHM4729mAu7B0WJjEEiJe9EibjI4KHpCXBTU5gTEEIlchIVJeQFwXmOJfSem7o8CXhySUD+SigIh+cJEB0MRAXwMQQTlAUBAyl4iObnCThK8Xu7EwNLKlGo33C46/8AaH1+KJuIUDUAAAAASUVORK5CYII="
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[MapFiles/Duchies.png|Duchies]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[MapFiles/Duchies.png|Duchies]]",
+      "[[MapFiles/Counties.png|Counties]]",
+      "[[MapFiles/Main.png|Terrain]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 7,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "miles",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

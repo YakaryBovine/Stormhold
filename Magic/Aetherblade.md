@@ -1,0 +1,9 @@
+Aetherblades are extraordinary swords crafted in the era of [[The Magocracy]], and the knowledge of their creation has been lost to time. They are unusually sharp, light, and strong, able to swiftly cut through lesser metals with little difficulty. Each blade is associated with a particular element, such as fire or lightning, and radiates that element while wielded in battle.
+
+When first wielded by a human, an Aetherblade instantly and permanently bonds to its wielder. From then on, if the blade is leaves the wielder's hand, it vanishes in a matter befitting its element - flame-associated blades, for instance, disappear in a flash of fire. The wielder can then re-summon the blade by holding out their hand and willing it for seven seconds, after which the blade coalesces in their hand in a manner again befitting its element. Aetherblades cannot be stolen; the only way to take one is to kill its owner.
+
+Owing to their rarity and the power they offer, virtually all Aetherblades are in the possession of [[Feudal System|the royal family, powerful noble houses, or their knights]]. Many are passed down through familial lines, while others are granted to high-ranking knights before being returned to the family coffers upon the knight's death.
+
+Owning an Aetherblade is such a strong indicator of nobility that, should a lowborn gain possession of one, it is traditional to induct them into the peerage. This poses something of a risk for owners of Aetherblades.
+### Secret
+[[Aetherblade]]s are crafted by enchanting a sword with the fully intact [[Animus]] of a living [[Mage]]. The Rite to accomplish this is not known.
